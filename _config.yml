@@ -9,8 +9,6 @@ url: "https://jshin4420.github.io"
 baseurl: "/lab"
 repository: "jshin4420/lab"
 
-# Author / PI
-# Replace placeholder links and profile image when ready.
 author:
   avatar: "profile.png"
   name: "Jihyung Shin"
@@ -38,14 +36,15 @@ author:
   twitter:
 
 publication_category:
+  publications:
+    title: 'Publications'
+  manuscripts:
+    title: 'Manuscripts Under Review'
   books:
     title: 'Books'
-  manuscripts:
-    title: 'Journal Articles'
   conferences:
     title: 'Conference Papers'
 
-# Site settings
 teaser:
 breadcrumbs: false
 words_per_minute: 160
@@ -113,7 +112,6 @@ keep_files:
   - .svn
 encoding: "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
-
 markdown: kramdown
 highlighter: rouge
 lsi: false
