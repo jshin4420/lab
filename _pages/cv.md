@@ -31,7 +31,7 @@ B.A. in Journalism and Mass Communications, Specialization in Advertising, 2004
 **Korea Information Society Development Institute (KISDI)**  
 2012–Present
 
-KISDI is a Korean government-funded research institute under the National Research Council for Economics, Humanities and Social Sciences. My work combines statistical methodology, computational data analysis, large-scale survey and panel data, and substantive research on media and communication.
+KISDI is a **Korean government-funded, non-profit research institute under the Prime Minister's Office**. My work combines statistical methodology, computational data analysis, large-scale survey and panel data, and substantive research on media and communication.
 
 ## Statistical & Computational Research
 
