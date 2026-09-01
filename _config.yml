@@ -35,6 +35,11 @@ author:
   bluesky:
   twitter:
 
+collections:
+  publications:
+    output: true
+    permalink: /publication/:path/
+
 publication_category:
   publications:
     title: 'Publications'
