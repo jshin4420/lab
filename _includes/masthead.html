@@ -3,7 +3,9 @@
   <div class="masthead__inner-wrap">
     <div class="masthead__menu">
       <nav id="site-nav" class="greedy-nav">
-        <button><span class="navicon"></span></button>
+        <button type="button" id="mobile-menu-toggle" aria-label="Toggle navigation" aria-expanded="false">
+          <span class="navicon"></span>
+        </button>
         <ul class="visible-links">
           <li class="masthead__menu-item masthead__menu-item--lg persist {% if page.url == '/' or page.url == '/index.html' %}selected{% endif %}">
             <a href="{{ base_path }}/">{{ site.title }}</a>
@@ -27,3 +29,54 @@
     </div>
   </div>
 </div>
+
+<style>
+  @media (max-width: 1024px) {
+    #site-nav .visible-links {
+      display: none;
+    }
+
+    #site-nav.menu-open .visible-links {
+      display: block;
+      position: absolute;
+      top: 100%;
+      left: 0;
+      right: 0;
+      z-index: 1000;
+      margin: 0;
+      padding: 0.5rem 1rem;
+      background: var(--global-bg-color);
+      box-shadow: 0 3px 10px rgba(0, 0, 0, 0.12);
+    }
+
+    #site-nav.menu-open .visible-links li {
+      display: block;
+      width: 100%;
+    }
+
+    #site-nav.menu-open .visible-links a {
+      display: block;
+      padding: 0.7rem 0.5rem;
+    }
+  }
+
+  @media (min-width: 1025px) {
+    #mobile-menu-toggle {
+      display: none;
+    }
+  }
+</style>
+
+<script>
+  document.addEventListener('DOMContentLoaded', function () {
+    var button = document.getElementById('mobile-menu-toggle');
+    var nav = document.getElementById('site-nav');
+
+    if (!button || !nav) return;
+
+    button.addEventListener('click', function () {
+      var open = nav.classList.toggle('menu-open');
+      button.setAttribute('aria-expanded', open ? 'true' : 'false');
+    });
+  });
+</script>
