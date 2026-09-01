@@ -5,9 +5,9 @@ category: manuscripts
 permalink: /publication/correlated-random-effects-zero-inflated-poisson
 date: 2026-01-01
 author: "Jihyung Shin"
-venue: "Manuscript"
+venue: "Under Review"
 excerpt: "Simulation and empirical evidence on the consequences of ignoring correlated random effects in zero-inflated longitudinal count models."
-citation: "Shin, J. (2026). Assessing the Consequences of Ignoring Correlated Random Effects in Zero-Inflated Poisson Mixed Models: Simulation and Data Analysis of Kindergarten Letter-Sound Fluency. Manuscript."
+citation: "Shin, J. (2026). Assessing the Consequences of Ignoring Correlated Random Effects in Zero-Inflated Poisson Mixed Models: Simulation and Data Analysis of Kindergarten Letter-Sound Fluency. Manuscript under review."
 ---
 
 Kindergarten letter-sound fluency assessments often produce longitudinal count data characterized by excess zeros and substantial between-student heterogeneity. This study applies zero-inflated Poisson mixed-effects models to data from 461 kindergarten students assessed three times during an academic year.
