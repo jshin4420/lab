@@ -7,12 +7,14 @@ redirect_from:
   - /resume
 ---
 
-## Jihyung Shin
+## Jihyung Shin, Ph.D.
 
-**Quantitative Researcher · Statistics · Media & Communication**  
+**Quantitative Researcher · Statistics · Computational Data Analysis**  
 **Media & Platform Data Lab**
 
-I am a quantitative researcher with a Ph.D. in Statistics, working at the intersection of statistical methodology, computational data analysis, media and communication, and public policy. My research combines rigorous statistical methods with large-scale empirical data to understand audiences, platforms, and media markets in an increasingly fragmented digital environment.
+I am a quantitative researcher with a Ph.D. in Statistics from Florida State University. My research focuses on statistical methodology and computational data analysis, with applications to large-scale social science, survey, longitudinal, and media datasets.
+
+Since joining the Korea Information Society Development Institute (KISDI) in 2012, I have conducted quantitative research on media, audiences, markets, and public policy. My primary methodological focus is the development and evaluation of quantitative approaches for complex observational, longitudinal, and survey data.
 
 ## Education
 
@@ -29,30 +31,31 @@ B.A. in Journalism and Mass Communications, Specialization in Advertising, 2004
 **Korea Information Society Development Institute (KISDI)**  
 2012–Present
 
-Quantitative and computational research on media, audiences, large-scale survey and panel data, broadcasting and advertising markets, media policy, and statistical methodology.
+KISDI is a Korean government-funded research institute under the National Research Council for Economics, Humanities and Social Sciences. My work combines statistical methodology, computational data analysis, large-scale survey and panel data, and substantive research on media and communication.
 
-## Quantitative & Computational Research
+## Statistical & Computational Research
 
-My research uses large-scale longitudinal and cross-sectional datasets, including the **Korean Media Panel Survey (KMPS)**, to investigate media use, audience behavior, platform dynamics, and market change.
+My methodological research includes **statistical matching, heterogeneous survey data integration, nearest-neighbor matching, regression adjustment, coarsened exact matching, multiple imputation, mixed-mode survey harmonization, mixed-effects models, zero-inflated models, correlated random effects, simulation studies, and computational analysis of large-scale datasets**.
 
-My methodological work includes **statistical matching, heterogeneous survey data integration, nearest-neighbor matching, regression adjustment, coarsened exact matching, multiple imputation, mixed-mode survey harmonization, mixed-effects models, zero-inflated models, correlated random effects, simulation studies, and computational analysis of large-scale media datasets**.
+My recent research evaluates statistical methods through simulation and empirical applications, including statistical matching across heterogeneous surveys and the specification of correlated random effects in zero-inflated longitudinal count models.
 
-Recent working papers demonstrate these approaches through simulation-based methodological evaluation and extensive empirical analysis of survey and longitudinal data.
+Although my substantive applications often concern media and communication, my primary research interest is statistical methodology for complex social science data.
 
 ## Research Interests
 
-- Statistical methodology for media and communication research
-- Large-scale media and panel data analysis
-- Survey data integration and statistical matching
-- Mixed-mode survey measurement and harmonization
+- Statistical methodology for social science and media research
+- Statistical matching and heterogeneous survey data integration
+- Survey measurement, mode effects, and harmonization
+- Multiple imputation and missing-data methods
 - Longitudinal and hierarchical statistical models
+- Zero-inflated and mixed-effects models
+- Correlated random effects
 - Simulation-based methodological evaluation
-- Computational social science and media data
-- Audience fragmentation and media-use behavior
+- Computational social science and large-scale data analysis
+- Audience fragmentation and cross-platform media use
 - TV–OTT substitution and supplementation
-- Cross-platform media use and audience movement
 - Media market competition and advertising markets
-- Media diversity policy and platform governance
+- Media diversity and platform governance
 
 ## Selected Research Projects & Grants
 
