@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Media & Platform Data Lab"
-author_profile: true
+author_profile: false
 layout: single
 ---
 
@@ -14,6 +14,15 @@ layout: single
     <a class="lab-button" href="{{ '/publications/' | relative_url }}">Publications →</a>
   </div>
 </div>
+
+<section class="lab-contact-card" style="margin: 2rem 0 3rem; padding: 1.5rem 0; border-top: 1px solid #ddd; border-bottom: 1px solid #ddd;">
+  <div style="font-size: 1.5rem; font-weight: 700;">Jihyung Shin, Ph.D.</div>
+  <div style="margin-top: .35rem;">Quantitative Researcher · Media &amp; Platform Data Lab</div>
+  <div style="margin-top: .2rem;">Korea Information Society Development Institute (KISDI)</div>
+  <div style="margin-top: .2rem;">Jincheon-gun, Chungcheongbuk-do, Republic of Korea</div>
+  <div style="margin-top: .7rem;"><strong><a href="mailto:jshin@kisdi.re.kr">jshin@kisdi.re.kr</a></strong></div>
+  <div style="margin-top: .5rem;"><a href="{{ '/cv/' | relative_url }}">CV</a> · <a href="https://scholar.google.com/citations?user=8pgRFKoAAAAJ&amp;hl=en">Google Scholar</a></div>
+</section>
 
 <div class="lab-focus">
   <div><span>01</span><strong>AUDIENCE</strong><p>Fragmentation</p></div>
