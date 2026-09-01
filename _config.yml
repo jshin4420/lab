@@ -14,7 +14,7 @@ author:
   name: "Jihyung Shin"
   pronouns:
   bio: "Quantitative researcher with a Ph.D. in Statistics studying audiences, platforms, media markets, and statistical methodology."
-  location: "Sejong, Republic of Korea"
+  location: "Jincheon-gun, Chungcheongbuk-do, Republic of Korea"
   employer: "Korea Information Society Development Institute (KISDI)"
   uri:
   email: "jshin@kisdi.re.kr"
@@ -92,6 +92,7 @@ exclude:
   - .bundle
   - .github
   - .jekyll-assets-cache
+  - .sass-cache
   - .sass-cache
   - assets/js/_main.js
   - assets/js/plugins
