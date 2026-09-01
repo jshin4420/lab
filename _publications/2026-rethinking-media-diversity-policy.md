@@ -4,9 +4,9 @@ collection: publications
 category: manuscripts
 permalink: /publication/rethinking-media-diversity-policy
 date: 2026-01-01
-venue: "Manuscript"
+venue: "Under Review"
 excerpt: "A comparative analysis of how media diversity policy is being reconfigured in platformized media environments."
-citation: "Shin, J. (2026). Rethinking Media Diversity Policy in Platformized Media Environments: Evidence from Comparative Policy Analysis. Manuscript."
+citation: "Shin, J. (2026). Rethinking Media Diversity Policy in Platformized Media Environments: Evidence from Comparative Policy Analysis. Manuscript under review."
 ---
 
 This study examines how media diversity policies are being reconfigured in platformized media environments. Through comparative analysis of the European Union, the United Kingdom, France, and Australia, it uses a four-dimensional framework encompassing structural, content, distribution, and user diversity.
