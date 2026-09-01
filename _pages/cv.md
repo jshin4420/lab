@@ -14,7 +14,7 @@ redirect_from:
 
 I am a quantitative researcher with a Ph.D. in Statistics from Florida State University. My research focuses on statistical methodology and computational data analysis, with applications to large-scale social science, survey, longitudinal, and media datasets.
 
-Since joining the Korea Information Society Development Institute (KISDI) in 2012, I have conducted quantitative research on media, audiences, markets, and public policy. My primary methodological focus is the development and evaluation of quantitative approaches for complex observational, longitudinal, and survey data.
+Since joining the Korea Information Society Development Institute (KISDI) in 2012, her work has combined statistical methodology with research on media, audiences, markets, and public policy. KISDI is legally established as an independent nonprofit research foundation (재단법인) under Korean law, not a government administrative agency.
 
 ## Education
 
@@ -31,7 +31,7 @@ B.A. in Journalism and Mass Communications, Specialization in Advertising, 2004
 **Korea Information Society Development Institute (KISDI)**  
 2012–Present
 
-KISDI is a **Korean government-funded, non-profit research institute under the Prime Minister's Office**. My work combines statistical methodology, computational data analysis, large-scale survey and panel data, and substantive research on media and communication.
+KISDI is legally established as an independent nonprofit research foundation (재단법인) under Korean law, not a government administrative agency. My work combines statistical methodology, computational data analysis, large-scale survey and panel data, and substantive research on media and communication.
 
 ## Statistical & Computational Research
 
