@@ -67,6 +67,6 @@ layout: single
   <div class="lab-section-label">CONTACT</div>
   <h2>Interested in media,<br>platforms, and data?</h2>
   <p>For research collaboration, methodological questions, or academic inquiries:</p>
-  <p><strong><a href="mailto:jshin@kisdi.re.kr">jshin@kisdi.re.kr</a></strong><br>Korea Information Society Development Institute (KISDI)<br>Sejong, Republic of Korea</p>
+  <p><strong><a href="mailto:jshin@kisdi.re.kr">jshin@kisdi.re.kr</a></strong><br>Korea Information Society Development Institute (KISDI)<br>Jincheon-gun, Chungcheongbuk-do, Republic of Korea</p>
   <p><a class="lab-text-link" href="{{ '/cv/' | relative_url }}">View CV →</a> &nbsp; <a class="lab-text-link" href="https://scholar.google.com/citations?user=8pgRFKoAAAAJ&amp;hl=en">Google Scholar →</a></p>
 </section>
