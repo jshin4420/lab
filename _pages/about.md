@@ -46,10 +46,20 @@ layout: single
   <div>
     <h2>Research in progress.</h2>
     <div class="lab-project-list">
-      <a href="{{ '/publications/' | relative_url }}"><span>01</span><strong>Cross-platform Media Use</strong><small>Audience · Platforms · Substitution →</small></a>
-      <a href="{{ '/portfolio/' | relative_url }}"><span>02</span><strong>Media Market Competition</strong><small>Competition · Advertising · Markets →</small></a>
-      <a href="{{ '/publications/' | relative_url }}"><span>03</span><strong>Statistical Frameworks</strong><small>Methods · Media Data · Measurement →</small></a>
+      <a href="{{ '/research/' | relative_url }}"><span>01</span><strong>Cross-platform Media Use</strong><small>Audience · Platforms · Substitution →</small></a>
+      <a href="{{ '/projects/' | relative_url }}"><span>02</span><strong>Media Market Competition</strong><small>Competition · Advertising · Markets →</small></a>
+      <a href="{{ '/research/' | relative_url }}"><span>03</span><strong>Statistical Frameworks</strong><small>Methods · Media Data · Measurement →</small></a>
     </div>
+  </div>
+</section>
+
+<section class="lab-profile">
+  <div class="lab-section-label">PRINCIPAL INVESTIGATOR</div>
+  <div>
+    <h2>Quantitative research<br>for complex media data.</h2>
+    <p><strong>Jihyung Shin, Ph.D.</strong> is a quantitative researcher with a Ph.D. in Statistics from Florida State University. Since joining KISDI in 2012, her work has combined statistical methodology with research on media, audiences, markets, and public policy.</p>
+    <p>Her methodological research includes statistical matching, survey data integration, multiple imputation, mixed-mode measurement, mixed-effects models, and simulation-based evaluation.</p>
+    <a class="lab-text-link" href="{{ '/cv/' | relative_url }}">View full CV →</a>
   </div>
 </section>
 
