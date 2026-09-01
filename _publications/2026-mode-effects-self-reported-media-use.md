@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/mode-effects-self-reported-media-use
 date: 2026-01-01
-venue: "Manuscript under review"
+venue: "Under Review"
 excerpt: "Comparing regression adjustment, coarsened exact matching, and multiple imputation for assessing mode effects in self-reported OTT media use."
 citation: "Shin, J. (2026). Mode Effects in Self-Reported Media Use: Evidence from Regression, Matching, and Multiple Imputation. Manuscript under review."
 ---
