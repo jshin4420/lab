@@ -9,30 +9,40 @@ author_profile: true
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
 
-{% include base_path %}
-
 <h2>Peer-Reviewed Publications</h2>
 <p>Selected peer-reviewed publications spanning media use, public health, health services research, and quantitative social science.</p>
 <hr />
 
 {% for post in site.publications reversed %}
-  {% if post.category == "manuscripts" %}
-    {% continue %}
+  {% if post.category != "manuscripts" %}
+    {% include archive-single.html %}
   {% endif %}
-  {% include archive-single.html %}
 {% endfor %}
 
-<h2>Working Papers & Manuscripts Under Review</h2>
+<h2>Working Papers &amp; Manuscripts Under Review</h2>
 <p>Current manuscripts applying statistical modeling, simulation, data integration, and computational methods to media and social science research.</p>
 <hr />
 
-{% for post in site.publications reversed %}
-  {% if post.category != "manuscripts" %}
-    {% continue %}
-  {% endif %}
-  {% include archive-single.html %}
-{% endfor %}
+<h3>Integrating Heterogeneous Survey Data for Media Research: A Statistical Matching Approach to Identifying Smartphone Overdependence Risk Factors</h3>
+<p><strong>Under Review · 2026</strong></p>
+<p>Develops a statistical matching framework integrating the Korean Media Panel Survey and Smartphone Overdependence Survey. Uses nearest-neighbor matching with Manhattan distance, distributional validation using Hellinger distance and similarity indices, simulation-based evaluation, and regression analysis of 5,884 smartphone users.</p>
+<p><em>Methods:</em> statistical matching · survey data integration · nearest-neighbor matching · simulation · computational social science</p>
+
+<h3>Mode Effects in Self-Reported Media Use: Evidence from Regression, Matching, and Multiple Imputation</h3>
+<p><strong>Under Review · 2026</strong></p>
+<p>Examines differences in self-reported OTT media-use time across questionnaire, online survey, and diary modes. Compares regression adjustment, coarsened exact matching, and multiple imputation to assess the robustness of cross-mode estimates.</p>
+<p><em>Methods:</em> regression adjustment · coarsened exact matching · multiple imputation · survey harmonization · measurement equivalence</p>
+
+<h3>Assessing the Consequences of Ignoring Correlated Random Effects in Zero-Inflated Poisson Mixed Models: Simulation and Data Analysis of Kindergarten Letter-Sound Fluency</h3>
+<p><strong>Under Review · 2026</strong></p>
+<p>Evaluates correlated versus independent random-effects specifications in zero-inflated Poisson mixed models using longitudinal data from 461 kindergarten students. A simulation study assesses the consequences of ignoring random-effect dependence.</p>
+<p><em>Methods:</em> zero-inflated Poisson mixed models · correlated random effects · longitudinal count data · simulation study · model comparison</p>
+
+<h3>Rethinking Media Diversity Policy in Platformized Media Environments: Evidence from Comparative Policy Analysis</h3>
+<p><strong>Under Review · 2026</strong></p>
+<p>Examines how media diversity policy is changing in platformized media environments through comparative analysis of the European Union, United Kingdom, France, and Australia, using structural, content, distribution, and user diversity dimensions.</p>
+<p><em>Methods:</em> comparative policy analysis · media diversity · platform governance · exposure diversity</p>
 
 <div class="wordwrap">
-  <p><strong>Note:</strong> These manuscripts are currently under review and should not be interpreted as published articles.</p>
+  <p><strong>Note:</strong> The four manuscripts above are currently under review and should not be interpreted as published articles.</p>
 </div>
