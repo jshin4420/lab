@@ -9,10 +9,10 @@ redirect_from:
 
 ## Jihyung Shin
 
-**Quantitative Researcher · Media & Communication · Statistics**  
+**Quantitative Researcher · Statistics · Media & Communication**  
 **Media & Platform Data Lab**
 
-I am a quantitative researcher with a Ph.D. in Statistics, working at the intersection of statistical methodology, media and communication, and public policy. My research examines how audiences, platforms, and media markets interact in an increasingly fragmented digital environment, with particular emphasis on rigorous quantitative methods for complex survey and observational data.
+I am a quantitative researcher with a Ph.D. in Statistics, working at the intersection of statistical methodology, computational data analysis, media and communication, and public policy. My research combines rigorous statistical methods with large-scale empirical data to understand audiences, platforms, and media markets in an increasingly fragmented digital environment.
 
 ## Education
 
@@ -29,21 +29,25 @@ B.A. in Journalism and Mass Communications, Specialization in Advertising, 2004
 **Korea Information Society Development Institute (KISDI)**  
 2012–Present
 
-Quantitative research on media, audiences, broadcasting and advertising markets, media policy, survey methodology, statistical modeling, and evidence-based policy analysis.
+Quantitative and computational research on media, audiences, large-scale survey and panel data, broadcasting and advertising markets, media policy, and statistical methodology.
 
-## Research Profile
+## Quantitative & Computational Research
 
-My methodological work includes **statistical matching, survey data integration, multiple imputation, regression-based harmonization, mixed-mode survey measurement, zero-inflated mixed-effects models, correlated random effects, and simulation-based statistical evaluation**.
+My research uses large-scale longitudinal and cross-sectional datasets, including the **Korean Media Panel Survey (KMPS)**, to investigate media use, audience behavior, platform dynamics, and market change.
 
-Although my substantive applications are in media and communication, my research is fundamentally quantitative and methodological, using statistical modeling and computational methods to address complex questions in media and social science data.
+My methodological work includes **statistical matching, heterogeneous survey data integration, nearest-neighbor matching, regression adjustment, coarsened exact matching, multiple imputation, mixed-mode survey harmonization, mixed-effects models, zero-inflated models, correlated random effects, simulation studies, and computational analysis of large-scale media datasets**.
+
+Recent working papers demonstrate these approaches through simulation-based methodological evaluation and extensive empirical analysis of survey and longitudinal data.
 
 ## Research Interests
 
 - Statistical methodology for media and communication research
+- Large-scale media and panel data analysis
 - Survey data integration and statistical matching
 - Mixed-mode survey measurement and harmonization
 - Longitudinal and hierarchical statistical models
 - Simulation-based methodological evaluation
+- Computational social science and media data
 - Audience fragmentation and media-use behavior
 - TV–OTT substitution and supplementation
 - Cross-platform media use and audience movement
