@@ -7,58 +7,45 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+## Researcher
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+**Jihyung Shin**
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+Media & Communication Researcher · Media & Platform Data Lab
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+My research examines how audiences, platforms, and media markets interact in an increasingly fragmented digital environment. I am particularly interested in cross-platform media use, audience fragmentation, competition between traditional and digital media, and quantitative methods for measuring substitution and supplementation.
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+## Research interests
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+- Audience fragmentation and media-use behavior
+- TV–OTT substitution and supplementation
+- Cross-platform media use and audience movement
+- Media market competition and advertising markets
+- Media diversity policy
+- Statistical methodology for media-use research
+
+## Selected research
+
+- **Mode Effects in Self-Reported Media Use** — manuscript under review
+- **Media Diversity and Platform Competition** — research paper
+- **Cross-platform Substitution and Supplementation** — ongoing research program
+- **Audience Fragmentation and Media Market Competition** — ongoing research program
+- **Statistical Frameworks for Cross-platform Substitution** — methodological research in development
+
+## Publications
+
+<ul>{% for post in site.publications reversed %}
+  {% include archive-single-cv.html %}
+{% endfor %}</ul>
+
+## Talks
+
+<ul>{% for post in site.talks reversed %}
+  {% include archive-single-talk-cv.html %}
+{% endfor %}</ul>
+
+## Teaching
+
+<ul>{% for post in site.teaching reversed %}
+  {% include archive-single-cv.html %}
+{% endfor %}</ul>
