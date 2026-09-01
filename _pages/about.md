@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Media & Platform Data Lab"
-author_profile: false
+author_profile: true
 layout: single
 ---
 
