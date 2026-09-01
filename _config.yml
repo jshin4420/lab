@@ -17,7 +17,7 @@ author:
   location: "Sejong, Republic of Korea"
   employer: "Korea Information Society Development Institute (KISDI)"
   uri:
-  email:
+  email: "jshin@kisdi.re.kr"
   academia:
   arxiv:
   googlescholar: "https://scholar.google.com/citations?user=8pgRFKoAAAAJ&hl=en"
@@ -79,7 +79,7 @@ social:
 analytics:
   provider: "false"
   google:
-    tracking_id:
+    tracking_id
 
 include:
   - .htaccess
