@@ -1,15 +1,15 @@
 main:
   - title: "Research"
-    url: /lab/research/
+    url: /research/
 
   - title: "People"
-    url: /lab/people/
+    url: /people/
 
   - title: "Publications"
-    url: /lab/publications/
+    url: /publications/
 
   - title: "Projects"
-    url: /lab/projects/
+    url: /projects/
 
   - title: "CV"
-    url: /lab/cv/
+    url: /cv/
