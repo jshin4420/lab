@@ -4,9 +4,9 @@ collection: publications
 category: manuscripts
 permalink: /publication/statistical-matching-media-research
 date: 2026-01-01
-venue: "Manuscript"
+venue: "Under Review"
 excerpt: "A statistical matching framework for integrating heterogeneous social science surveys to study media use and smartphone overdependence."
-citation: "Shin, J. (2026). Integrating Heterogeneous Survey Data for Media Research: A Statistical Matching Approach to Identifying Smartphone Overdependence Risk Factors. Manuscript."
+citation: "Shin, J. (2026). Integrating Heterogeneous Survey Data for Media Research: A Statistical Matching Approach to Identifying Smartphone Overdependence Risk Factors. Manuscript under review."
 ---
 
 Survey-based research in media studies increasingly requires data that cuts across multiple domains, yet separate surveys rarely capture both media use behaviors and psychosocial attributes of the same individuals. This study demonstrates how statistical matching can overcome this fragmentation by integrating the Korean Media Panel Survey (KMPS) and the Smartphone Overdependence Survey (SOS).
